@@ -1,0 +1,24 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.03.2011 17:22:04
+
+
+newmtl Metal_Brass
+	
+	map_Kd textura_paralelipied.tga
+
+newmtl Surface_Leather
+	
+	map_Kd hbord3.tga
+
+newmtl Misc_Ice
+	
+	map_Kd graymarb.tga
+
+newmtl Metal_Stainless_
+	
+	map_Kd graymarb.tga
+
+newmtl Paving_Asphalt_S
+	
+	map_Kd textura_paralelipied.tga
+

@@ -1,0 +1,8 @@
+in .mtl fine, change the location of the texture
+
+use only a .tga texture (of type 2 or 10.. dunno what it means)
+
+in .obj, use only those mts ("usemtl") which have texture on them...
+chuck the remaining commands
+
+prob- only the last .tga is used every single place..... !!!!!!!!
